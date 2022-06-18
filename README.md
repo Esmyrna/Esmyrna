@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou me aperfeiçoando na parte front-end e back-end.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, JAVA and Python.
+- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, JAVA e Python.
 
 -->
 
