@@ -4,8 +4,8 @@
 - 🔭 Atualmente estou desenvolvendo projetos em React e Angular.
  
 -->
-Ferramentas e tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+## Ferramentas e tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
           
 
 
