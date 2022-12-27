@@ -1,16 +1,12 @@
-### Olá! Eu sou Esmyrna! 👋
+### Olá! Eu me chamo Esmyrna e sou uma desenvolvedora Front end! 👋
 
 
-- 🔭 Atualmente estou me aperfeiçoando na parte front-end e back-end.
-- 🌱 Estou aprendendo sobre HTML, CSS, JavaScript, JAVA e Python.
-
+- 🔭 Atualmente estou desenvolvendo projetos em React e Angular.
+ 
 -->
-
-<div align="center">
-  <a href="https://github.com/Esmyrna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esmyrna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmyrna&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
+Ferramentas e tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
 
 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
