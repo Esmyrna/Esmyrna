@@ -1,7 +1,7 @@
-### Olá! Eu me chamo Esmyrna e sou uma desenvolvedora Front end! 👋
+### Olá! Eu me chamo Esmyrna e sou uma desenvolvedora Backend! 👋
 
 
-- 🔭 Atualmente estou desenvolvendo projetos em React e Typescript.
+- 🔭 Atualmente estou desenvolvendo projetos em Java e estudando Kotlin.
 - ⚡ Que tal dar uma olhada no meu portfólio? Lá você verá um pouco mais sobre o meu trabalho! (Repositório)
  
 ## Ferramentas e tecnologias:
