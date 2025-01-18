@@ -3,13 +3,7 @@
 
 - 🔭 Atualmente estou desenvolvendo projetos em Java e estudando Kotlin.
 - ⚡ Que tal dar uma olhada no meu portfólio? Lá você verá um pouco mais sobre o meu trabalho! (Repositório)
- 
-## Ferramentas e tecnologias:
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"  />
-
-</div>                  
+          
 
 
  ## Contatos:
